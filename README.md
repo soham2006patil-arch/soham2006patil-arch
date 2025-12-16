@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi there, I'm Soham Patil 👋
 
-<!--
-**soham2006patil-arch/soham2006patil-arch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a CS Student with a passion for AI/ML and DATA ANALYTICS. I enjoy turning complex problems into simple, beautiful, and intuitive solutions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 I'm currently focused on:
+
+* **Python:** 
+* **No-code:** 
+* **Data Analytics:** 
+
+### 🛠️ My Toolbox:
+
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **Languages** |  `Python`  |
+
+
+---
+
+### 📈 GitHub Stats
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=buefy" alt="Your GitHub Stats" />
+
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_GITHUB_USERNAME]&layout=compact&theme=buefy" alt="Top Languages" />
+</div>
+
+---
+
+### 🤝 Let's Connect:
+
+
+* **LinkedIn:** wwww.linkedin.com/in/soham-patil-943120259
+* **Email:** soham2006.patil@gmail.com
+
+<br>
+
+<p align="center">
+    Thanks for stopping by! Let's build something amazing.
+</p>
