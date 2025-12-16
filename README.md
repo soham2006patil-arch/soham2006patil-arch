@@ -6,9 +6,9 @@ I'm a CS Student with a passion for AI/ML and DATA ANALYTICS. I enjoy turning co
 
 ### 🌱 I'm currently focused on:
 
-* **Python:** 
-* **No-code:** 
-* **Data Analytics:** 
+* **Python**
+* **No-code** 
+* **Data Analytics** 
 
 ### 🛠️ My Toolbox:
 
@@ -32,7 +32,7 @@ I'm a CS Student with a passion for AI/ML and DATA ANALYTICS. I enjoy turning co
 ### 🤝 Let's Connect:
 
 
-* **LinkedIn:** wwww.linkedin.com/in/soham-patil-943120259
+* **LinkedIn:** www.linkedin.com/in/soham-patil-943120259
 * **Email:** soham2006.patil@gmail.com
 
 <br>
