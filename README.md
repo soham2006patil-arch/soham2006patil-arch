@@ -22,9 +22,9 @@ I'm a CS Student with a passion for AI/ML and DATA ANALYTICS. I enjoy turning co
 ### 📈 GitHub Stats
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=buefy" alt="Your GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=soham2006patil-arch&show_icons=true&theme=buefy" alt="Your GitHub Stats" />
 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_GITHUB_USERNAME]&layout=compact&theme=buefy" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soham2006patil-arch&layout=compact&theme=buefy" alt="Top Languages" />
 </div>
 
 ---
